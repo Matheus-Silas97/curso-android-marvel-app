@@ -4,6 +4,6 @@ data class CharacterResponse(
 
     val id: String,
     val name: String,
-    val thumbnail: thumbnailResponse
+    val thumbnail: ThumbnailResponse
 
 )

@@ -1,6 +1,6 @@
 package com.example.core.data.network.response
 
-data class thumbnailResponse(
+data class ThumbnailResponse(
 
     val path: String,
 
